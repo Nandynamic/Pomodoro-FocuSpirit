@@ -1,50 +1,27 @@
-# Pomodoro FocusSpirit
+⏱️ FocusSprint
+A minimal, distraction-free Pomodoro timer app built with React and JavaScript.
+Helps you stay focused, complete tasks in timed sprints, and boost productivity.
 
-A modern Pomodoro timer application to help you stay focused and productive.
+🚀 Live Demo
+👉 https://pomodoro-focus-spirit.vercel.app/#/
 
-## Features
-- Clean and intuitive user interface
-- Customizable timer settings
-- Sound notifications
-- Progress tracking
-- Responsive design for both desktop and mobile
+📌 Features
+✅ Simple and responsive Pomodoro timer (25/5/15 min)
+✅ Start, Pause, and Reset timer controls
+✅ Add, delete, and complete tasks
+✅ Sprint counter to track your focus sessions
+✅ LocalStorage to save tasks and timer state
+✅ Clean UI and mobile-friendly design
+⚙️ Optional settings page (custom durations, sound, theme)
 
-## Getting Started
+🛠️ Tech Stack
+Frontend: React.js (with hooks)
+Language: JavaScript (ES6)
+Styling: CSS / Flexbox
+Storage: localStorage (no backend)
 
-### Prerequisites
-- Node.js (v16.x or higher)
-- npm or yarn
 
-### Installation
-1. Clone the repository
-```bash
-git clone https://github.com/Nandynamic/Pomodoro-FocuSpirit.git
-cd Pomodoro-FocuSpirit
-```
+🧠 What is the Pomodoro Technique?
+The Pomodoro Technique is a time management method that uses a timer to break work into intervals — traditionally 25 minutes of focused work followed by short breaks. It’s a proven way to boost productivity and avoid burnout.
 
-2. Install dependencies
-```bash
-npm install
-# or
-yarn install
-```
 
-3. Start the development server
-```bash
-npm start
-# or
-yarn start
-```
-
-The application will be available at `http://localhost:3000`
-
-## Build
-To create a production build:
-```bash
-npm run build
-# or
-yarn build
-```
-
-## License
-This project is licensed under the MIT License.
